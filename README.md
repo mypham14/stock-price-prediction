@@ -17,7 +17,7 @@ Combination of regression models to predict stock prices for companies in a port
 ## Description
 The objective of this project is to predict stock prices of a diversified portfolio including 6 companies from 6 different industries and the S&P500 to help investors make financial decisions given the close, open, high, low prices and trading volume over 20 years. Since the main purpose is to test different regression models, the project will use data of one company (Chase) for all models.
 
-*Disclaimer: This project is created for educational purposes and does not hold responsibility over the accuracy of source information and model results compared to reality for investing purposes.*
+*Disclaimer: This project is created for learning purposes and does not hold responsibility over the accuracy of source information and model results compared to reality for investing purposes.*
 
 ## Methodologies
 * Extract stock prices of all companies over 20 years from Yahoo Finance and maintain a database of stock details in MySQL Server
