@@ -70,7 +70,7 @@ Project is created with:
 ## Setup
 * Download all data files
 * Install the requirements using `pip install -r requirements.txt`.
-** Make sure you use Python 3
+  - Make sure you use Python 3
 
 ## Usage
 * Run `Stock Price Prediction.ipynb` to see all project steps
