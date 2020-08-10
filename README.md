@@ -79,7 +79,7 @@ Project is created with:
 Project is finished.
 
 ## Inspiration
-Project inspired by [Analytics Vidhya](analyticsvidhya.com/)'s tutorials of predition models.
+Project inspired by [Analytics Vidhya](analyticsvidhya.com/)'s tutorials of prediction models.
 
 ## Contact
 Created by [@mypham14](https://github.com/mypham14/) - feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/mytrapham)!
