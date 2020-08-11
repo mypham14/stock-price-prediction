@@ -29,8 +29,8 @@ The objective of this project is to predict stock prices of a diversified portfo
 
 ## Results
 * **Model Result**: ARIMA time series provided the highest accuracy with a MSE of 0.22 (followed by KNN).
-* **Visualization**: Tableau dashboards for the stock portfolio analysis were created [here](https://tabsoft.co/2DxdiBV)
-* **Automated ML and Deployment**: the chosen model (time series) was applied in Azure ML and deployed into production [here](https://bit.ly/3ksg24c)
+* **Visualization**: Tableau dashboards for the stock portfolio analysis were created [here](https://tabsoft.co/2DxdiBV).
+* **Automated ML and Deployment**: the chosen model (time series) was applied in Azure ML and deployed into production [here](https://bit.ly/3ksg24c).
 
 ## Files
 * Stock Price Prediction.sql: database of all stock data stored and analyzed in MySQL Server
