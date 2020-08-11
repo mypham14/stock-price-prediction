@@ -20,7 +20,7 @@ The objective of this project is to predict stock prices of a diversified portfo
 *Disclaimer: This project is created for learning purposes and does not hold responsibility over the accuracy of source information and model results compared to reality for investing purposes.*
 
 ## Methodologies
-* Extract stock prices of all companies over 20 years from Yahoo Finance and maintain a database of stock details in MySQL Server
+* Extract stock prices of all companies over 20 years from Yahoo Finance, perform data cleaning, ETL and maintain a database of stock details in MySQL Server
 * Test a combination of models including ARIMA Time Series, Regression Machine Learning models (KNN, Linear Regression, Ridge, LASSO, Support Vector Machines (SVM - linear, poly, rbf)), Ensemble Learning (Bagging, Pasting, Adaboost and Gradient Boosting) and Deep Learning models (Long Short-Term Memory (LSTM)) to predict stock prices of the companies in the portfolio
 * Perform parameter tuning and model evaluation
 * Web scrape real-time stock prices of all companies
