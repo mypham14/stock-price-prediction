@@ -1,5 +1,5 @@
 # Stock Price Prediction
-Combination of regression models to predict stock prices for companies in a portfolio
+Combination of regression models to predict stock prices for companies in a portfolio and help investors make financial decisions
 
 ## Table of contents
 * [Description](#description)
