@@ -33,11 +33,13 @@ The objective of this project is to predict stock prices of a diversified portfo
 * **Automated ML and Deployment**: the chosen model (time series) was applied in Azure ML and deployed into production [here](https://bit.ly/3ksg24c)
 
 ## Files
+* Stock Price Prediction.sql: database of all stock data stored and analyzed in MySQL Server
 * Stock Price Prediction.ipynb: notebook describing all project steps 
 * stock.csv: all stock data of all 6 companies and the S&P500 index (37,002 rows and 5 columns - Close, Open, High, Low, Volume) for database management in MySQL Server
 * chase.csv: Chase data for all models in the project (5,286 rows and 6 columns - Close, Open, High, Low, Adj Close, Volume) with modifications of the datasaet for each respective model 
 * new_data.csv: Chase data for deep learning model (LSTM) (5,286 rows and 2 columns - Date, Close)
 For all models, Close price is the predicted value.
+* requirements.txt: text file containing all Python libraries used in the project
 
 ## Technologies
 Project is created with:
